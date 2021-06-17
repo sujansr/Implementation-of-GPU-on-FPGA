@@ -1,2 +1,3 @@
-# Implementation-of-GPGPU-on-FPGA
-Implementing a simple GPGPU on an FPGA, using a load/store ISA. This GPU can then be used for different purposes; For E.g. accelerating repeated floating-point operations.
+# Implementation-of-GPU-on-FPGA
+Implementation of an extremely simple GPU on an FPGA
+The GPU was made out of a bunch of ALU, a simple shader, a framebuffer and a rasterizer, with a VGA output
